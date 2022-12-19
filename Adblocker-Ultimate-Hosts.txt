@@ -1,4 +1,4 @@
-# Adblocker Ultimate Blocklist
+# Adblocker Ultimate Hosts
 
 127.0.0.1 pumpass.net
 127.0.0.1 fb960dbd5f.com
